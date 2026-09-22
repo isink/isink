@@ -40,7 +40,7 @@
 ## 🚀 Featured Projects
 
 ### Skiller
-A modern application for ...
+An iOS app designed to make it easy to collect, organize, and manage reusable skills for Codex and Claude.
 
 **Tech Stack:** TypeScript · React · Node.js
 
