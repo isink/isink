@@ -42,3 +42,19 @@
 <img data-importer="snake" src="https://raw.githubusercontent.com/isink/isink/snake-output/snake.svg" alt="Snake animation" />
 
 ###
+
+## 🚀 Featured Projects
+
+### Skiller
+A modern application for ...
+
+**Tech Stack:** TypeScript · React · Node.js
+
+[View Project](https://github.com/isink/skiller)
+
+### Obsidian Codex Daily Sync
+Automatically saves Codex Desktop tasks into an Obsidian daily workflow.
+
+**Tech Stack:** JavaScript · Node.js
+
+[View Project](https://github.com/isink/obsidian-codex-daily-sync)
