@@ -37,12 +37,6 @@
 
 ###
 
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/isink/isink/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 ## 🚀 Featured Projects
 
 ### Skiller
