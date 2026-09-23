@@ -6,7 +6,12 @@
 
 ###
 
-<img src="./assets/isink.gif" width="650" alt="Cozy pixel-art coding room" />
+<img
+  align="right"
+  width="420"
+  src="./assets/isink.gif"
+  alt="Cozy pixel-art coding room"
+/>
 
 ###
 
