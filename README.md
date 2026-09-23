@@ -2,7 +2,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">Turning ideas into modern web applications.</h3>
+### Still loading... probably building something.
 
 ###
 
